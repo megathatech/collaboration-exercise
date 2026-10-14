@@ -1,5 +1,6 @@
 # collaboration-exercise
 Practice repository for learning GitHub collaboration: branching, pull requests, code review, and merge conflicts (edited by Wayan and Megatha).
+
 ## About
 Repository for practicing GitHub collaboration: branching, pull requests, and code review.
 
